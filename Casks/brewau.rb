@@ -1,6 +1,6 @@
 cask "brewau" do
-  version "0.8.0"
-  sha256 "c650287bcedfed71b8fad98692b49adb39abc83447ba2b57b625bb636514f607"
+  version "0.9.0"
+  sha256 "671e3e98a0dbfede73dd7da110dc4f1a787ff131506ae4e4785a7e2a026488a2"
 
   url "https://github.com/kastruppro/brewau/releases/download/v#{version}/brewau-#{version}.pkg"
   name "brewau"
